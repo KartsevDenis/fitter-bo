@@ -1,0 +1,1 @@
+<div class="slider" style="background-image: url({{ $post->large_image or $large_image }});"></div>
